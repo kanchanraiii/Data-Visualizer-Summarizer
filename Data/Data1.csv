@@ -1,1 +1,144 @@
-
+api_id,name,email,phone_number,created_at,approval_status,custom_source,has_joined_event,amount,amount_discount,stripe_payment_intent_id,stripe_account_id,currency,coupon_code,eth_address,solana_address,survey_response_rating,survey_response_feedback,ticket_type_id,ticket_name,How much do you know about AR/VR?,What is your designation?,Any specific question you want to ask the speaker(s) ?
+gst-aKU1vOBYquR3bWu,Aadya Chopra ,*,*,2024-06-16T14:25:08.680Z,approved,,No,0,0,,,,,,,5,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Btech 3rd student ,What are ar/vr technologies ? And does one develop them ?
+gst-oIuzBGzJqCREaEC,Aanshi R Kumar,*,*,2024-06-16T13:37:22.999Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student ,No
+gst-GqN9XmOgivXppK1,Aaron Thomas,*,*,2024-06-16T14:31:07.053Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,How to start with XR?
+gst-w3z6Y4825ZAlOwZ,Abhijeet,*,*,2024-06-16T16:19:17.522Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Advanced,UX Consultant,How are we building capability in XR ecosystem
+gst-qkOcNqVz9YLAuq2,Abhishek Naula,*,*,2024-06-16T15:15:19.182Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,SDE Intern,How to create AR/VR application for different platforms?
+gst-GafJQPmcruBixWF,Aditya Sinha ,*,*,2024-06-16T14:21:46.396Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student ,How to start our journey!!!
+gst-oARH8lRydUFcAmq,Akhil Kumar ,*,*,2024-06-17T04:55:52.858Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,To become a game developer ,No
+gst-KDmO7M865XLaHcs,Alisha Parveen,*,*,2024-06-17T09:54:54.937Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student ,
+gst-aYCcOzs6yfoyGBJ,Aman Gupta,*,*,2024-06-16T14:49:55.095Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Sde,
+gst-1byA0BzEfQvlE07,Aman Singh,*,*,2024-06-16T14:50:48.328Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,
+gst-1aldftceTsM72Bg,AMAN SINGH,*,*,2024-06-18T11:57:02.401Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,What is initial requirements for vr / ar
+gst-Ni91IESr19CjUSX,Anand soni,*,*,2024-06-17T07:41:32.245Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Co-founder,What are the popular frameworks to use to implement AR VR ?
+gst-NYJPBYjkKovxkUO,AINKET JAGDISH APRAJ,*,*,2024-06-16T13:50:56.378Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Artist,No
+gst-t3AGGuJfFmFg53B,Ankur,*,*,2024-06-18T02:49:01.864Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student ,
+gst-4DXxiraFejpCSAy,Anugrah KUMAR ,*,*,2024-06-24T12:00:46.987Z,approved,,No,0,0,,,,,,,5,Superb session ,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Student ,
+gst-z8i9slarqo24sU6,Anuj Joshi ,*,*,2024-06-17T05:09:57.539Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,
+gst-zFDuJToRr6uUMcR,Anushka Raj,*,*,2024-06-23T17:20:01.790Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Software Engineer ,
+gst-rHwmta7vP2t6ZSx,Appy,*,*,2024-06-16T14:26:04.595Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Intern,N/A
+gst-v2q7MiyU3izLm36,Prayesi Agarwal,*,*,2024-06-23T18:19:24.788Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student ,How to get into VR and properly implement it from basic to advanced 
+gst-F6Sj2UMFfwczCmi,ARPITA MITTAL,*,*,2024-06-16T14:52:12.141Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Stude ,
+gst-RatzSeCF5FSYVDC,Arushi Rana,*,*,2024-06-23T18:22:43.352Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,
+gst-HfnUTpIge4tO2Lz,Aryan Patil ,*,*,2024-06-16T16:18:03.079Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,XR developer intern ,
+gst-NILBBqRHnW1FScL,Riyansh Varshney,*,*,2024-06-16T13:40:30.369Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,
+gst-eZn0fWmoCNEDIo1,Ayush Gupta,*,*,2024-06-16T14:42:40.092Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student @ Manipal Jaipur ,
+gst-nCiDeLMn2Tvi41h,Yashna Baweja,*,*,2024-06-16T14:19:56.141Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,Nope
+gst-eSt9zSi14Y0eKAm,Bhagwati,*,*,2024-06-16T15:25:54.517Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student ,How to make the learning process more faster 
+gst-UGNspXMlV4H2Q6E,Bhakti Sadashiv Bahirat ,*,*,2024-06-17T04:33:46.039Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student ,
+gst-zj7Aymk33TvszMd,Nistha Bhura,*,*,2024-06-16T14:20:13.994Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student ,None
+gst-n96yVnjduDpVyDA,Bhumika Mandal,*,*,2024-06-23T20:42:31.338Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Student,
+gst-IhFYnGl8Kcu6CZQ,Chhavi Garg,*,*,2024-06-23T17:42:00.702Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,WTM,Hehe
+gst-wcOw9xIxUM7L46o,Nischay Choudhary,*,*,2024-06-16T14:30:26.568Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,B.Arch Student,
+gst-sv2fHNo4DXUl2N2,Prashant ,*,*,2024-06-16T16:47:55.944Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Sde,How to create 3d model with luma to use in effect?
+gst-CyzCbnLiwm2AVzh,sarthak,*,*,2024-06-17T21:59:55.690Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,mr,
+gst-purRgFPx6YqELCd,Deepak Dalal,*,*,2024-06-18T03:26:47.327Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student ,
+gst-AFLsf0Hl6hpGFlP,Devashish Bhandari,*,*,2024-06-16T17:49:46.960Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Software Engineer ,How long will it take to start implementing the skills in professional career?
+gst-fCSAYHM4NdEBCJR,Shashank Rawat,*,*,2024-06-24T03:09:23.779Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Management consultant ,
+gst-wpou9u6FE4zvQBh,Dikshant Verma,*,*,2024-06-17T16:18:06.366Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,"I want to learn more about AR and VR tech, I have very basic knowledge about it right now and I aspire to become an AR/VR developer. For starting of AR/VR development, I've learnt how to make 3D objects in blender quite well.",It would be about career related options in next 1-2 years in AR/VR and game development related to AR/VR.
+gst-fDtmRiWFPiwJE5s,Dipanshu Pandey,*,*,2024-06-16T15:28:09.670Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,
+gst-RXPdukjvz3rf9Qh,Enriquerafa,*,*,2024-06-18T02:47:15.299Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,licenciado artes plásticas,In what format and size are a 3D animated file saved in gardfos 360 to view them with metaquets 2 lenses?
+gst-dOCXgho6uEV1U0S,Saumyaa Garg,*,*,2024-06-16T14:19:14.590Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Machine Learning Analyst Intern,
+gst-eVabbBsBJGzfbbi,Gokul Sali Rajan,*,*,2024-06-16T17:45:50.078Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Student ,
+gst-pYEkb4pUH1sUDOd,Mystic,*,*,2024-06-16T13:41:23.641Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,AR on Unreal
+gst-Rq6y1FxFUvZyohv,Gyanendra Gaurav,*,*,2024-06-16T15:20:06.801Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,
+gst-ZFETnfN2xw2ccC1,Hardi Hitesh Makwana,*,*,2024-06-16T15:03:29.690Z,approved,,Yes,0,0,,,,,,,5,Very nice and informative session. It’s help me a lot to Getting started with Augmented Reality (AR) and Virtual Reality (VR),evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,B.Tech Student ,
+gst-rYngs8I9g7JGtWE,Hardik prasad,*,*,2024-06-16T13:41:42.191Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,No
+gst-hGJsFQm6CPRaHRV,Hardik Save,*,*,2024-06-17T21:58:35.361Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,AR Creator,
+gst-2sVt4IpCxWyR3BS,HARITHA P ,*,*,2024-06-16T15:38:02.170Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,
+gst-sFZ4PgYnMQHDrqf,Soumendu Pal,*,*,2024-06-18T04:48:11.881Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Data analyst,
+gst-CZpZZEuHRRI6rUo,HIMANSHU KUMAR SAW,*,*,2024-06-16T14:41:07.112Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Student ,
+gst-AFDN8hgzCdvUnlM,Himanshu Rawat ,*,*,2024-06-16T09:55:25.936Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Students ,Nope
+gst-Nemeo9IvBffOaHS,Himansu Negi,*,*,2024-06-23T22:22:05.573Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,What all field are there in VR and what should one choose?
+gst-qev3b0aiQkOwvSJ,Harshavardhan Bajoria,*,*,2024-06-23T18:24:42.206Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Associate Product Manager ,
+gst-s3avED8RTyq384i,Indranil Thakare,*,*,2024-06-23T18:45:47.459Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student ,
+gst-NTJFlCEMb79XY0s,Ishwari Kapse,*,*,2024-06-18T09:15:44.346Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,-,
+gst-cFHZnr8QxSOkAMn,Ayush,*,*,2024-06-16T16:24:40.813Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,
+gst-PCazMh7nizNUXSu,jayesh thanvi,*,*,2024-06-16T15:27:39.068Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Software Engineer ,
+gst-qbURPoIgJdFON56,Jeetesh,*,*,2024-06-16T11:06:32.828Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Dost,
+gst-tiyawYJ9D2K8tqB,Karan Joshi,*,*,2024-06-16T23:45:29.787Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,What and why
+gst-EJCGcrW3jOnjDbZ,Kanchan Rai,*,*,2024-06-16T14:12:14.763Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,
+gst-RWXXwQGJlg0yq2N,Ayush Kansal,*,*,2024-06-16T12:50:54.096Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,
+gst-qffmANad30Jr1nY,Katta Kaushik Arya ,*,*,2024-06-16T15:35:28.135Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,-,
+gst-A7nvJfp390sHD0K,kaushik karan singh,*,*,2024-06-16T10:52:54.353Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,App developer at Mind geeks,I wan to know more about Web based XR's
+gst-vyiEpZL8BgcZgvl,KISHOREKARTHI E,*,*,2024-06-17T14:34:55.979Z,approved,,Yes,0,0,,,,,,,5,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student ,
+gst-DKWdTp4uTtKhkTa,Krish Khattar,*,*,2024-06-16T18:54:19.046Z,approved,,No,0,0,,,,,0x6536BBE58353aC563544eEbDff23e3668201d5ae,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,
+gst-CgSm2oMLHW6ijCe,Kushagra Kiyawat,*,*,2024-06-16T14:55:09.389Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Student,
+gst-BOtx5rtiwW6M2H8,Khushi Yadav,*,*,2024-06-16T15:38:23.907Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student ,What do you think about Xr scope in Indian market currently? 
+gst-k3tNVOFYBonWyps,Lakshay Gupta ,*,*,2024-06-17T03:35:18.285Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Sde-1,
+gst-zNoPFUJNpK44iix,Mahitha Reddy Peram,*,*,2024-06-16T13:41:58.491Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student ,What are the job opportunities in AR/VR field?
+gst-WBbz9NdzkhCTYRT,Manish Kumar ,*,*,2024-06-17T16:41:57.339Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,"How can a beginner can start from scratch, with all resources available, and PDFs in group."
+gst-iLhM9fnhP4uQb41,Mayank Chauhan,*,*,2024-06-16T17:19:12.756Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Student,integration of ar/vr within pre existing applications
+gst-d4okZ93NqqD60kW,Mohd. Hazique Sayed ,*,*,2024-06-23T18:09:44.975Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,I'm currently delving into the field of AR and I'm confused on how to approach
+gst-EUGz3zRXM5XIrWG,Vishal,*,*,2024-06-16T13:46:16.802Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,
+gst-4wCU0sN9JXYpkdc,Prince Kumar ,*,*,2024-06-17T01:43:45.704Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Web developer ,
+gst-7pRmav3SpYkOBqN,Mrical Singhal,*,*,2024-06-16T15:48:33.068Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Developer,
+gst-yz0UYxRSHsXyP8P,Nandini Patwa,*,*,2024-06-17T18:53:06.715Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Software developer,provide specific detail about AR & VR
+gst-5bTmQqcXHYd6Rom,Neetu Yadav,*,*,2024-06-16T17:00:07.477Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Cse 2bd year Student,
+gst-zHaXGUuPnfHnJ1J,Nidhi kumari Hari ,*,*,2024-06-24T02:24:04.034Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Undergraduate student ,
+gst-UJ2x6Gxc3CRRk59,Gopale Nikita Anil,*,*,2024-06-17T14:54:16.662Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,To learn ar vr,
+gst-9CIECjcLEgErh3c,Sachin Rajbhar,*,*,2024-06-16T15:00:33.744Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,SDE,What to do to get freelance clients?
+gst-3ltsn2AJBi8gkx2,Pal Kagrecha,*,*,2024-06-24T08:48:55.942Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Advanced,XR Seth,
+gst-QolJlbKA2jLCVj1,Parichit Aggarwal,*,*,2024-06-16T14:18:43.045Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Student,
+gst-W87DHABg4p90hGL,Paul Iwin ,*,*,2024-06-16T16:38:57.963Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,
+gst-VY5tSLAGZWTcHmf,Piyush Dixit,*,*,2024-06-16T14:32:23.946Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,student,
+gst-7aqFzeTI26ZdQ1D,Piyush Gupta,*,*,2024-06-18T03:05:35.643Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Data Engineer Consultant,Role of Data and AI in VR
+gst-GtctdSWAFwDIEU3,Nitya Prakash Pattanaik,*,*,2024-06-16T21:25:54.326Z,approved,,No,0,0,,,,,,,4,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,
+gst-3aPwLAP1YIOHELW,Prabhjeet Singh,*,*,2024-06-16T14:17:51.353Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student ,
+gst-Aq72vkswxHbaCcy,Praful Mishra,*,*,2024-06-17T17:21:47.880Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Senior Software Engineer,
+gst-2HvqzbLxLkub7mt,Pranjal Kapse ,*,*,2024-06-17T05:42:09.977Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,AR ,Pathways 
+gst-lqUkcyCXOLK4SIT,Prince Kumar Yadav ,*,*,2024-06-16T15:53:05.753Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Student ,Is there any prerequisite ?
+gst-imcLqtsYwttpH3i,Purvi Kedia ,*,*,2024-06-17T04:16:02.335Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Experience Designer,
+gst-yYs2W1zJQLUo8vU,Naman Gupta,*,*,2024-06-17T16:22:30.078Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,How to begin and from where to start learning AR/VR?
+gst-w19yRuuzBWO3mel,Raghav Chawla ,*,*,2024-06-16T13:40:20.020Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student ,
+gst-Ody6IiaL8FhNOBI,Raj Lodhi,*,*,2024-06-25T08:01:41.476Z,pending_approval,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,XR developer,"Some of the top SDKs out there  that I can work on to improve myself as a XR developer other than Vuforia, AR foundation and sparkAR"
+gst-2Q9Zq0w5WydkJuX,Raj Singh,*,*,2024-06-16T13:21:42.540Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,From where we study ar/vr and making exciting project 
+gst-112IDzr2tETmkJG,Ramasubramanian S,*,*,2024-06-16T17:13:25.133Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,
+gst-1r31cgSNoXWdMZk,Ranvir Singh,*,*,2024-06-16T14:48:33.127Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Nothing ,
+gst-htCfSFvS52XvAx4,Rahil,*,*,2024-06-16T16:11:50.972Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Designing ,
+gst-ZBjAXsTrz1ZWZiM,Abhishek Shandilya,*,*,2024-06-16T14:22:30.355Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Electrical engineering ,
+gst-tghg3FN8oBCnr88,Ridhi Ahuja,*,*,2024-06-16T14:49:58.434Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,College Student,Interaction based on session 
+gst-vi2hrf0NmpEecRS,Rinita Adhikary ,*,*,2024-06-16T15:25:59.073Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Student,-
+gst-7MDZf1nfuuduefu,Ritu Pandey ,*,*,2024-06-16T15:46:17.041Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student ,
+gst-G7q0ov80Q1zCazL,Ronit Jain ,*,*,2024-06-16T14:57:50.303Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student ,
+gst-qGKDqeUJZED01SV,Fathimath Sahla T ,*,*,2024-06-16T14:36:33.728Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,"With this certification, I can pursue roles such as AR/VR Developer, Unity Developer, VR Content Creator, AR/VR Designer, 3D Modeler, AR/VR Programmer, UX/UI Designer for AR/VR, and AR/VR Application Developer.",
+gst-4nE5tyGFG8fTfWh,Dinesh duvva,*,*,2024-06-17T03:44:32.168Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,AR developer ,
+gst-nlSfSvsdgfII8tv,Sai Lokhande,*,*,2024-06-17T05:11:54.209Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,No
+gst-SntLLxrOHDc7Q2Q,Sai Srikar Kadiyam,*,*,2024-06-16T13:37:55.690Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Senior Network Designer,
+gst-EkKBEHH6Pz8ETgL,Saleha Praveen,*,*,2024-06-16T16:23:07.506Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Student,What are the most software used in industry for vr and vr ? Unity/ unreal engine/ mera spark/ snapAR/ web AR etc
+gst-F0EqNXzjFNcboeq,Shashwat kapoor,*,*,2024-06-16T15:23:19.478Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,What is the future of ar vr jobs in india? 
+gst-oRrFeBIg9IQtKh5,Aditya Shaw,*,*,2024-06-16T14:09:09.610Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,UX Designer,No 
+gst-IKwLfBO2emQmMVJ,Shekhar thathera,*,*,2024-06-16T16:51:35.490Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Student,How can AR and VR be used in the future?
+gst-F5M37NPFQLw3VAB,Shravani Pawar,*,*,2024-06-16T15:30:01.205Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,UX Designer | Product Manager,The roadmap to excel AR/VR technology . Design the entire User Experience and User Interface for AR/VR softwares.
+gst-8AxaQQcrdDrKW6i,Shrishti Soni ,*,*,2024-06-17T10:13:48.881Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Student,
+gst-gulO0jDb7ZaFSvH,Shruti,*,*,2024-06-16T14:45:12.945Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student ,
+gst-gXecZvvpFnQGy2v,Sivottam Swamy,*,*,2024-06-17T12:49:45.505Z,approved,,Yes,0,0,,,,,,,5,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Freelance Social Media branding specialist ,
+gst-W5kSiQjC2AUyvCk,Ajit,*,*,2024-06-16T14:36:09.253Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,About Ar future w,
+gst-fXTwaAXcKOEaU16,Sourav Tiwari,*,*,2024-06-16T16:14:01.996Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Senior Associate ,
+gst-rAnnf0lOnvOgX2X,Sudeshna Pal,*,*,2024-06-16T17:51:26.962Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,
+gst-ygDrBqGfMDyFdpA,Sugha sri ,*,*,2024-06-16T13:01:29.823Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Student ,
+gst-ktwDKAFwxGbpsnD,Suraj Yadav,*,*,2024-06-16T15:40:03.801Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,student,
+gst-CeNP8ysEJDg9tCY,Sushmita Singh,*,*,2024-06-16T15:30:30.334Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,
+gst-E8dZr8njN7plYe5,Siddharth S,*,*,2024-06-16T14:35:13.399Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,XR Developer ,
+gst-BF4U26usDShptbD,Tanvi Priyam,*,*,2024-06-16T16:12:06.813Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,
+gst-6AhnDIFPA6BYk6J,Tarun Chaudhary ,*,*,2024-06-16T16:09:45.195Z,approved,,Yes,0,0,,,,,,,5,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Member ,What aportunity available in india for AR/VR developer? How to get intensionship or Job is this field..
+gst-vHCrJ4QNzDi2rBO,Yogesh Kumar,*,*,2024-06-16T13:07:04.309Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,"AR Developer, AR Trainer",
+gst-mucnu35TDXzHD0a,Udayveer Singh ,*,*,2024-06-16T19:47:30.359Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Senior Blockchain Developer ,
+gst-cG0SE5Un0TDBDN5,Bhavya Prasad,*,*,2024-06-17T12:10:34.347Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student ,
+gst-5zYxsN8omelsthp,Unnati Israni,*,*,2024-06-23T18:32:36.631Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Founder ,-
+gst-adW0s8wAgqqUWrr,Utkarsh Aggarwal,*,*,2024-06-16T14:48:54.422Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student ,
+gst-qWERqE3rv8Bxblq,Vasudev Sharma ,*,*,2024-06-17T07:48:04.697Z,approved,,Yes,0,0,,,,,,,3,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Student ,
+gst-kyANG5NIWVeMTdx,Vedansh Gupta,*,*,2024-06-17T09:00:38.019Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,
+gst-rWW9w7HsKIcF3iQ,Vishal Dewangan ,*,*,2024-06-24T00:35:59.880Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,NA,
+gst-fCG85MjzHdKClFE,Vivek Mishra,*,*,2024-06-18T10:01:01.390Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Advanced,XR designer ,
+gst-4Vt0a12wySEsng9,Vrishank Pandit,*,*,2024-06-16T13:41:28.101Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,Virtual Reality Developer,Scope of Job Opportunities in the XR Industry in the coming few years in India
+gst-mCVMArrpBhvrH9J,Sudhanshu Ghike,*,*,2024-06-16T10:52:36.313Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Animator,
+gst-OJN28bNJDEhesaR,XDG मुंBAI,*,*,2024-06-16T16:36:10.919Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,XR Developer,
+gst-cMiSu8cGX1ng84i,Unnati Yadav,*,*,2024-06-17T11:31:28.858Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student ,
+gst-b2DmxyyUs4UEuuc,Yashashree Talele,*,*,2024-06-23T21:06:21.654Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,
+gst-6Y2UDf15n939VCn,Yashasvi,*,*,2024-06-16T14:07:37.877Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,
+gst-0eaAF5HuCGeFDPR,Ankit ,*,*,2024-06-17T17:47:29.671Z,approved,,No,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student ,No
+gst-Ki3wlAost54vc9w,Yashu Gupta,*,*,2024-06-16T17:11:37.129Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Intern Ml/Ai,"How it actual work and could be create it like it looks really interesting,would love to know more about it"
+gst-DBfiOD8w2bYWjkp,Yati,*,*,2024-06-16T14:54:04.458Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Student,
+gst-fDqDUXHra9AiLdP,Yatin,*,*,2024-06-16T15:02:29.694Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Intermediate,SDE 2 ,
+gst-o4HEZl9AW1Sc4zd,Yogesh Singh,*,*,2024-06-17T05:57:11.291Z,approved,,Yes,0,0,,,,,,,,,evtticktyp-28VljjHwwdDMNeU,Standard,Beginner,Software Engineer ,I don't know more about it I just curious to know what is this.
