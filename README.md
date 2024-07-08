@@ -6,6 +6,9 @@ download these and you are good to :)
 3. Data (folder)
 4. img.jpg
 
+
+## Python Modules
+wordcloud, nltk
 finally run app.py , making sure above files are there in you sys.
 
 Remaining files contain the Exploratory Data Analysis conducted on the given dataset
